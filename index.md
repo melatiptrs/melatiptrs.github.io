@@ -12,7 +12,7 @@ Penjelasan project 1
 
 **Penjelasan lebih jauh** blablabla.
 
-<center><img src="images/dummy.png"/></center>
+<center><img src="images/dummy.jpg"/></center>
 
 ---
 ### Project 2
@@ -21,7 +21,7 @@ Penjelasan project 1
 
 <div style="text-align: justify">blablabla.</div>
 
-<center><img src="images/dummy.png"/></center>
+<center><img src="images/dummy.jpg"/></center>
 
 ---
 ### Project 3
@@ -30,7 +30,7 @@ Penjelasan project 1
 
 <div style="text-align: justify">blablabla.</div>
 <br>
-<center><img src="images/dummy.png"></center>
+<center><img src="images/dummy.jpg"></center>
 <br>
 
 ---
@@ -41,7 +41,7 @@ Penjelasan project 1
 
 <div style="text-align: justify">xxxxx.</div>
 <br>
-<center><img src="images/dummy.png"/></center>
+<center><img src="images/dummy.jpg"/></center>
 <br>
 
 ---
@@ -58,7 +58,7 @@ Penjelasan project 1
 
 <div style="text-align: justify">xxxxxxxx.</div>
 <br>
-<center><img src="images/dummy.png"/></center>
+<center><img src="images/dummy.jpg"/></center>
 <br>
 
 
