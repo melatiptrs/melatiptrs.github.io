@@ -6,7 +6,7 @@
 
 Penjelasan project 1
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rskj25i7FApLbFNrQat08r_NrqZwy9IR?usp=sharing)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1rskj25i7FApLbFNrQat08r_NrqZwy9IR?usp=sharing)
 
 **Penjelasan lebih jauh** blablabla.
 
@@ -17,7 +17,7 @@ Penjelasan project 1
 ---
 ### Project 2
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rskj25i7FApLbFNrQat08r_NrqZwy9IR?usp=sharing)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1rskj25i7FApLbFNrQat08r_NrqZwy9IR?usp=sharing)
 
 <div style="text-align: justify">blablabla.</div>
 
@@ -26,7 +26,7 @@ Penjelasan project 1
 ---
 ### Project 3
 
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rskj25i7FApLbFNrQat08r_NrqZwy9IR?usp=sharing)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1rskj25i7FApLbFNrQat08r_NrqZwy9IR?usp=sharing)
 
 <div style="text-align: justify">blablabla.</div>
 <br>
